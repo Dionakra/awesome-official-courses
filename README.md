@@ -64,11 +64,11 @@ In this repo you will find a list of online technology-related courses which hav
   * [Neo4j Administration Online Course](https://neo4j.com/graphacademy/online-training/neo4j-administration/)
   * [Data Science](https://neo4j.com/graphacademy/online-training/data-science/)
   * [Applied Graph Algorithms](https://neo4j.com/graphacademy/online-training/applied-graph-algorithms/)
-  * **[Neo4j Certification: Get Certified Today]**(https://neo4j.com/graphacademy/neo4j-certification/)
+  * [**Neo4j Certification: Get Certified Today**](https://neo4j.com/graphacademy/neo4j-certification/)
 * [TigerGraph](https://www.tigergraph.com/certification/)
   * [TigerGraph Fundamentals](https://www.tigergraph.com/certification-graph-fundamentals/)
   * [GSQL 101](https://www.tigergraph.com/certification-gsql-101/)
-  * **[TigerGraph GSQL Certification]**(https://www.proprofs.com/quiz-school/story.php?title=mjq5mtiwoa2i96)
+  * [**TigerGraph GSQL Certification**](https://www.proprofs.com/quiz-school/story.php?title=mjq5mtiwoa2i96)
 
 #### In-Memory
 * [Redis](https://university.redislabs.com/). Redis offer several courses, but they are not _at-your-own-pace_ courses, so you will need to register for the courses and complete them in the date they put.
