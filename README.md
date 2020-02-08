@@ -10,7 +10,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [Graph](#graph)
   * [In-Memory](#in-memory)
 * [Architecture](#architecture)
-  
+* [Big Data](#big-data)
 ## Courses
 ### Programming Languages
 * [Scala (Coursera)](https://www.coursera.org/specializations/scala). Course provided by ETFL (École Polytechnique Fédérale Lausanne), creators of the language.
@@ -89,3 +89,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [Building Scalable Systems](https://cognitiveclass.ai/courses/reactive-architecture-building-scalable-systems)
   * [Distributed Messaging Patterns](https://cognitiveclass.ai/courses/reactive-architecture-dmp)
   * [CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs)
+
+#### Big Data
+* Apache Kafka
+  * [Confluent Fundamentals for Apache Kafka®](https://www.confluent.io/training/confluent-fundamentals). Confluent is the company founded after Apache Kafka and its creation in LinkedIn. They are the main Apache Kafka vendor and huge supporters and contributors of Apache Kafka.
