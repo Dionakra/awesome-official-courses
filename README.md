@@ -9,6 +9,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [NoSQL](#nosql)
   * [Graph](#graph)
   * [In-Memory](#in-memory)
+  * [Multi-Model](#multi-model)
 * [Architecture](#architecture)
 * [Big Data](#big-data)
 ## Courses
@@ -80,6 +81,9 @@ In this repo you will find a list of online technology-related courses which hav
   * RU202 - Redis Streams
   * RU330 - Redis Security
   * Redis Certified Developer Program
+ 
+#### Multi-Model
+* [ArangoDB](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
 
 #### Architecture
 * [Lighbend's Reactive](https://www.lightbend.com/learn/lightbend-reactive-architecture)
