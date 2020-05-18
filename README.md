@@ -4,6 +4,7 @@ In this repo you will find a list of online technology-related courses which hav
 * The course should have a **free** completion certificate.
 
 ## Contents
+* [Expiring soon!](#expiring-soon)
 * [Programming Languages](#programming-languages)
 * [Databases](#databases)
   * [NoSQL](#nosql)
@@ -12,7 +13,24 @@ In this repo you will find a list of online technology-related courses which hav
   * [Multi-Model](#multi-model)
 * [Architecture](#architecture)
 * [Big Data](#big-data)
+
 ## Courses
+### Expiring soon
+* [Lightbend's Courses, free until 30 of June](https://www.lightbend.com/blog/learn-reactive-akka-and-scala-with-free-online-training-from-lightbend-academy)
+  * [Scala Language - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LSL-P-Scala-Language-Professional+v1/about)
+  * [Telemetry - Installation](https://academy.lightbend.com/courses/course-v1:lightbend+LTM-Installation+v1/about)
+  * [Akka for Scala - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LAS-P+v1/about)
+  * [Akka Cluster - Fundamentals](https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Fundamentals+v1/about)
+  * [Akka Cluster - Sharding (Scala)](https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Sharding-Scala-Classic+v1/about)
+  * [Akka Cluster - Sharding (Java)](https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Sharding-Java-Classic+v1/about)
+  * [Akka Streams for Scala - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LTS-P+v1/about)
+  * [Akka Streams for Java - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LTJ-P+v1/about)
+  * [Java Language - Lambdas](https://academy.lightbend.com/courses/course-v1:lightbend+LJL-Lambdas+v1/about)
+  * [Java Language - Futures](https://academy.lightbend.com/courses/course-v1:lightbend+LJL-Futures+v1/about)
+  * [Lagom for Java - Hello World](https://academy.lightbend.com/courses/course-v1:lightbend+LLJ-HelloWorld+v1/about)
+  * [Data Engineering - Data Principles](https://academy.lightbend.com/courses/course-v1:lightbend+LDE-DataPrinciples+v1/about)
+  * [Data Engineering - Cloudflow Principles](https://academy.lightbend.com/courses/course-v1:lightbend+LDE-Cloudflow-Principles+v1/about)
+  
 ### Programming Languages
 * [Scala (Coursera)](https://www.coursera.org/specializations/scala). Course provided by ETFL (École Polytechnique Fédérale Lausanne), creators of the language.
 * [Wolfram](https://www.wolfram.com/wolfram-u/). Wolfram provides several courses on several topics with their language.
@@ -92,6 +110,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [Building Scalable Systems](https://cognitiveclass.ai/courses/reactive-architecture-building-scalable-systems)
   * [Distributed Messaging Patterns](https://cognitiveclass.ai/courses/reactive-architecture-dmp)
   * [CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs)
+
 
 #### Big Data
 * Apache Kafka
