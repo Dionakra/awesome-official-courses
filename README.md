@@ -73,14 +73,13 @@ In this repo you will find a list of online technology-related courses which hav
 
 #### In-Memory
 * [Redis](https://university.redislabs.com/). Redis offer several courses, but they are not _at-your-own-pace_ courses, so you will need to register for the courses and complete them in the date they put.
-  * RU101 - Introduction to Redis Data Structures
-  * RU102J - Redis for Java Developers
-  * RU102JS - Redis for JavaScript Developers
-  * RU102PY - Redis for Python Developers
-  * RU201 - RediSearch
-  * RU202 - Redis Streams
-  * RU330 - Redis Security
-  * Redis Certified Developer Program
+  * [RU101 - Introduction to Redis Data Structures](https://university.redislabs.com/courses/ru101/)
+  * [RU102J - Redis for Java Developers](https://university.redislabs.com/courses/ru102j/)
+  * [RU102JS - Redis for JavaScript Developers](https://university.redislabs.com/courses/ru102js/)
+  * [RU102PY - Redis for Python Developers](https://university.redislabs.com/courses/ru102py/)
+  * [RU201 - RediSearch](https://university.redislabs.com/courses/ru201/)
+  * [RU202 - Redis Streams](https://university.redislabs.com/courses/ru202/)
+  * [RU330 - Redis Security](https://university.redislabs.com/courses/ru330/)
  
 #### Multi-Model
 * [ArangoDB](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
