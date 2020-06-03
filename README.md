@@ -13,6 +13,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [Multi-Model](#multi-model)
 * [Architecture](#architecture)
 * [Big Data](#big-data)
+* [Data Analytics](#data-analytics)
 
 ## Courses
 ### Expiring soon
@@ -102,7 +103,7 @@ In this repo you will find a list of online technology-related courses which hav
 #### Multi-Model
 * [ArangoDB](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
 
-#### Architecture
+### Architecture
 * [Lighbend's Reactive](https://www.lightbend.com/learn/lightbend-reactive-architecture)
   * [Introduction to Reactive Systems](https://cognitiveclass.ai/courses/reactive-architecture-introduction)
   * [Domain Driven Design](https://cognitiveclass.ai/courses/reactive-architecture-ddd)
@@ -112,6 +113,10 @@ In this repo you will find a list of online technology-related courses which hav
   * [CQRS and Event Sourcing](https://cognitiveclass.ai/courses/reactive-architecture-cqrs)
 
 
-#### Big Data
+### Big Data
 * Apache Kafka
   * [Confluent Fundamentals for Apache Kafka®](https://www.confluent.io/training/confluent-fundamentals). Confluent is the company founded after Apache Kafka and its creation in LinkedIn. They are the main Apache Kafka vendor and huge supporters and contributors of Apache Kafka.
+
+### Data Analytics
+* [Alteryx Designer Core](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
+* [Alteryx Designer Advanced](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
