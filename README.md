@@ -101,7 +101,7 @@ In this repo you will find a list of online technology-related courses which hav
   * [RU330 - Redis Security](https://university.redislabs.com/courses/ru330/)
  
 #### Multi-Model
-* [ArangoDB](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
+* [**ArangoDB Certification**](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
 
 ### Architecture
 * [Lighbend's Reactive](https://www.lightbend.com/learn/lightbend-reactive-architecture)
@@ -118,5 +118,5 @@ In this repo you will find a list of online technology-related courses which hav
   * [Confluent Fundamentals for Apache Kafka®](https://www.confluent.io/training/confluent-fundamentals). Confluent is the company founded after Apache Kafka and its creation in LinkedIn. They are the main Apache Kafka vendor and huge supporters and contributors of Apache Kafka.
 
 ### Data Analytics
-* [Alteryx Designer Core](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
-* [Alteryx Designer Advanced](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
+* [**Alteryx Designer Core Certification**](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
+* [**Alteryx Designer Advanced Certification**](https://community.alteryx.com/t5/Certification/bd-p/product-certification)
