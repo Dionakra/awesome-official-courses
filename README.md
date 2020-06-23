@@ -17,7 +17,7 @@ In this repo you will find a list of online technology-related courses which hav
 
 ## Courses
 ### Expiring soon
-* [Lightbend's Courses, free until 30 of June](https://www.lightbend.com/blog/learn-reactive-akka-and-scala-with-free-online-training-from-lightbend-academy)
+* [Lightbend's Courses, free until 31st of July](https://www.lightbend.com/blog/learn-reactive-akka-and-scala-with-free-online-training-from-lightbend-academy)
   * [Scala Language - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LSL-P-Scala-Language-Professional+v1/about)
   * [Telemetry - Installation](https://academy.lightbend.com/courses/course-v1:lightbend+LTM-Installation+v1/about)
   * [Akka for Scala - Professional](https://academy.lightbend.com/courses/course-v1:lightbend+LAS-P+v1/about)
