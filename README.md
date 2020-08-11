@@ -101,7 +101,10 @@ In this repo you will find a list of online technology-related courses which hav
   * [RU330 - Redis Security](https://university.redislabs.com/courses/ru330/)
  
 #### Multi-Model
-* [**ArangoDB Certification**](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database. 
+* [**ArangoDB Certification**](https://www.arangodb.com/certification-exam/). ArangoDB is a Multi-Model Database. That means that it can work as a Key-Value, Document or Graph Database.
+
+#### DB Versioning
+* [**Liquibase Fundamentals Certification**](https://learn.liquibase.com/catalog/info/id:125). Liquibase is an open-source database schema change management solution which enables you to manage revisions of your database changes easily.
 
 ### Architecture
 * [Lighbend's Reactive](https://www.lightbend.com/learn/lightbend-reactive-architecture)
